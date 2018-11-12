@@ -1,0 +1,13 @@
+!go/
+!doc/
+1/
+2/
+vendor/
+log/*
+cache/*
+node_modules/
+bower_components/
+.env
+*.bat
+time
+pasw
